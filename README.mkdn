@@ -7,7 +7,7 @@ Getting Started
 To get started with distcc client for android, you'll need to get
 familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
-To initialize your local repository using the LineageOS trees, use a command like this:
+To initialize your local repository using this trees, use a command like this:
 
     repo init -u git://github.com/whdgmawkd/distcc_client_android.git -b cm-14.1
 
